@@ -37,6 +37,7 @@ nano .env
 ```bash
 mkdir src
 mkdir letsencrypt
+mkdir nextcloud
 touch letsencrypt/acme.json
 ```
 Then start the docker compose:
